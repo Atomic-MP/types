@@ -1,3 +1,4 @@
+/// <reference types="node" /> 
 
 interface IUserInsecureData {
   discord_id: string;
