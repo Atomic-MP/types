@@ -1,0 +1,19 @@
+{
+  "name": "@atomicmp/types",
+  "version": "1.0.0",
+  "description": "All type definitions for AtomicMP projects",
+  "types": "types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomicmp/types.git"
+  },
+  "author": "Miles Florence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomicmp/types/issues"
+  },
+  "homepage": "https://github.com/atomicmp/types#readme"
+}
