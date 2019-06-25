@@ -28,9 +28,6 @@ interface IUserSecureData extends IUserInsecureData {
 
 interface IUser extends IUserSecureData, IUserInsecureData {
   hash?: Buffer;
-  getMoney: () => (number);
-  secureData: () => IUserSecureData;
-  insecureData: () => IUserInsecureData;
 }
 
 interface IIncomingInventory {
